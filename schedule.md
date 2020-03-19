@@ -4,15 +4,31 @@ title: Schedule
 permalink: /schedule/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+### Spring 2020
 
 
-[jekyll-organization]: https://github.com/jekyll
+The schedule is under development and subject to change.
+
+| Week          | Tuesday       | Thursday   | Thursday Section | References         | Assignment  |
+|:--------------|:--------------------|:-------------------|:-------------------|:-------------|:------------
+|1. Linear Regression |Intro, Linear Regression| Assessing Performance & Bias Variance Trade-off|  ||
+|2. Regularization| Ridge Regression | LASSO| |
+|3. Classification| Overview | Logistic Regression | MLE
+|4. Ensemble Methods| Decision Trees | Ensemble Methods | 
+|5. Assessing Performance| Precision & Recall | Cross-validation
+|6. ||
+|7. Neural Networks| Neural Networks| Convolutional Neural Networks, Transfer Learning| Training, SGD?
+|8. Clustering| Nearest Neighbors, K-means | Assessment, Hierarchical Clustering
+|9. Dimensionality Reduction | PCA| T-SNE, Auto-Encoders?
+|10. Reinforcement Learning | Ethics
+
+
+Topics to fit: kernel methods (Non-parameteric section)
+
+Extra: Reinforcement Learning, Semi-Supervised Learning, Active Learning, Big Data, Ethics: bias: do some study. 
+
+More on time series and dependence issues? Maybe in Song Recommender? RNN
+
+{: rules="groups"}
+
