@@ -36,14 +36,6 @@ If you are missing some of the prerequisite material, you are responsible to lea
 * Evaluate the performance of machine learning algorithms 
 
 ---
-## Assessment
-
-* Homeworks:
-	* Programming Portion
-	* Concept Portion	 
-* Exams
-
----
 ## Getting Help
 
 * [Piazza](https://piazza.com/class/k7vcouww2l45qs): You can find the access code to join Piazza on our course Canvas page
