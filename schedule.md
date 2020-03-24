@@ -17,11 +17,11 @@ The schedule is under development and subject to change.
 |3. Classification| Overview | Logistic Regression | MLE
 |4. Ensemble Methods| Decision Trees | Ensemble Methods | 
 |5. Assessing Performance| Precision & Recall | Cross-validation
-|6. ||
+|6. Kernel Methods?||
 |7. Neural Networks| Neural Networks| Convolutional Neural Networks, Transfer Learning| Training, SGD?
 |8. Clustering| Nearest Neighbors, K-means | Assessment, Hierarchical Clustering
-|9. Dimensionality Reduction | PCA| T-SNE, Auto-Encoders?
-|10. Reinforcement Learning | Ethics
+|9. Dimensionality Reduction | PCA, NMF| T-SNE, Auto-Encoders?
+|10. Extra |Reinforcement Learning | Ethics
 
 
 Topics to fit: kernel methods (Non-parameteric section)

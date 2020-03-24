@@ -4,6 +4,19 @@ title: Resources
 permalink: /resources/
 ---
 
+### Course Infrastructure
+
+* [Set-up Zoom](https://itconnect.uw.edu/connect/phones/conferencing/zoom-video-conferencing/log-in/)
+	* Dont't be a stranger: set up your profile with your name and picture
+	* Express yourself: play with [virtual backgrounds](https://support.zoom.us/hc/en-us/articles/210707503-Virtual-Background)
+
+* [Gradescope Tutorial](https://www.gradescope.com/help#help-center-section-student-workflow)
+
+
+### Prob & Stats
+* [Khan Academy](https://www.khanacademy.org/math/statistics-probability)
+* [Coursera Statistical Inference](https://www.coursera.org/learn/statistical-inference)
+
 ### Python
 
 * Learning Python
@@ -15,12 +28,10 @@ Note: Only useful if you know Java.
 * Very comprehensive [Python cheat sheet](https://courses.cs.washington.edu/courses/cse416/19su/files/python-cheat-sheet.pdf)
 
 
-### Prob & Stats
-
-
 ### Machine Learning
 
 Online Reading References
+
 All resources on this page are optional and are here for you if you need extra help or want to dive deeper into the material. Most of the materials listed here are available for free and are online, while a few physical textbooks are also referenced. Resources that start with [square brackets] are referenced on the calendar.
 
 Machine Learning Texts:
@@ -34,8 +45,4 @@ Machine Learning Texts:
 ### Data Science:
 
 * [VanderPlas] [Python for Data Science](https://jakevdp.github.io/PythonDataScienceHandbook/) - Jake VanderPlas
-* [BerkeleyPrinciples and Techniques of Data Science](https://www.textbook.ds100.org/intro.html) - UC Berkeley Data 100 Course
-
-### Course Infrastructure
-
-* [Gradescope Tutorial](https://www.gradescope.com/help#help-center-section-student-workflow)
+* [Berkeley Principles and Techniques of Data Science](https://www.textbook.ds100.org/intro.html) - UC Berkeley Data 100 Course
