@@ -38,7 +38,7 @@ If you are missing some of the prerequisite material, you are responsible to lea
 ---
 ## Getting Help
 
-* [Piazza](https://piazza.com/class/k7vcouww2l45qs): You can find the access code to join Piazza on our course Canvas page
+* [Piazza](https://piazza.com/class/k7vcouww2l45qs): 
 
 We use Piazza as an online Q&A forum where you may ask questions (both publicly and privately). If you have a question, this should be the first place to check & it's often the case that other students may have had the same question.
 
