@@ -36,25 +36,23 @@ If you are missing some of the prerequisite material, you are responsible to lea
 * Evaluate the performance of machine learning algorithms 
 
 ---
-## Assessment
-
-* Homeworks:
-	* Programming Portion
-	* Concept Portion	 
-* Exams
-
----
 ## Getting Help
 
-* [Piazza](https://piazza.com/class/k7vcouww2l45qs): You can find the access code to join Piazza on our course Canvas page
+* [Piazza](https://piazza.com/class/k7vcouww2l45qs): 
 
-We use Piazza as an online Q&A forum where you may ask questions (both publicly and privately). If you have a question, this should be the first place to check & it's often the case that other students may have had the same question.
+	We use Piazza as an online Q&A forum where you may ask questions (both publicly and privately). If you have a question, this should be the first place to check & it's often the case that other students may have had the same question.
 
-We also strongly recommend you monitor new questions asked on Piazza semi-regularly: seeing questions other students ask can often be surprisingly enlightening.
+	We also strongly recommend you monitor new questions asked on Piazza semi-regularly: seeing questions other students ask can often be surprisingly enlightening.
 
-We do not have a course staff email so if you have a question about a particular concept or part of the assignment that you do not want to post publicly on Piazza, you should post privately so that the instructor or any of the TAs can answer. Students should prefer using Piazza instead of emailing individual staff members. Obviously, if your concern is a personal matter that you want to talk to the instructor about, you may email the instructor individually.
+	We do not have a course staff email so if you have a question about a particular concept or part of the assignment that you do not want to post publicly on Piazza, you should post privately so that the instructor or any of the TAs can answer. Students should prefer using Piazza instead of emailing individual staff members. Obviously, if your concern is a personal matter that you want to talk to the instructor about, you may email the instructor individually.
 
-Note: The use of "Piazza Careers" is not required and you do not need to put any personal information in the website.
+	**Note:** The use of "Piazza Careers" is not required and you do not need to put any personal information in the website.
+
+* Office hours:
+
+	Please visit office hours via zoom! Answering questions during office hours is often one of the best parts of teaching, so please do us a favor and make use of them.
+
+	One additional resource to keep in mind is the [resources](/resources/) page on the class website. This page contains links to a variety of guides, tips, and tricks on material we don't have time to fully cover during lecture or section. The resources there might not always be relevant, but they're worth checking from time to time.
 
 
 
