@@ -7,6 +7,8 @@ UW CSE/STAT 416: Introduction to Machine Learning
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
+base_url: valentina-s.github.io/uw-cse-stat-416/
+
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
