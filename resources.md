@@ -29,6 +29,7 @@ Note: Only useful if you know Java.
 * [Python for R users](https://learn.datacamp.com/courses/python-for-r-users)
 * [Python for Matlab users](https://docs.scipy.org/doc/numpy/user/numpy-for-matlab-users.html)
 * [Learn Python in Y Minutes](https://learnxinyminutes.com/docs/python/)
+* [Software Carpentry Python Novice Lesson](https://swcarpentry.github.io/python-novice-gapminder/)
 * Very comprehensive [Python cheat sheet](https://courses.cs.washington.edu/courses/cse416/19su/files/python-cheat-sheet.pdf)
 
 
