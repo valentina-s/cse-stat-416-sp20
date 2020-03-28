@@ -26,7 +26,7 @@ Provides practical introduction to machine learning. Modules include regression,
 
 * CSE 143 or CSE 160 (programming experience); and STAT 311 or STAT 390 (prob & stats experience).
 
-If you are missing some of the prerequisite material, you are responsible to learn it on your own (check out the [resources](/resources/) page). 
+If you are missing some of the prerequisite material, you are responsible to learn it on your own (check out the [resources]({{base.url}}resources/) page). 
  
 
 
