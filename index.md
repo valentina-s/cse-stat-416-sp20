@@ -12,7 +12,7 @@ permalink: /
 
 * **Instructor:** Valentina Staneva (vms16@uw.edu) 
 	* Office Hours: 11:30am - 1:30pm
-* **Lectures:** Tuesdays & Thursdays, 10:00-11:20am, [Online via Zoom]({{base.url}}/resources/#course-infrastructure) (you will receive an email with instructions)
+* **Lectures:** Tuesdays & Thursdays, 10:00-11:20am, [Online via Zoom]({{base.url}}resources/#course-infrastructure) (you will receive an email with instructions)
 * **Quizz Sections:** Thursdays
 	* AA: 12:30 - 1:20pm
 	* AB: 1:30 - 2:20pm
