@@ -4,7 +4,7 @@ title: Resources
 permalink: /resources/
 ---
 
-### [Course Infrastructure](#Course_Infrastructure)
+### [Course Infrastructure](#course-infrastructure)
 
 Luckily, many components of the course have already been designed so that most of the work can be done remotely. We will meet for lectures, TA sections, and office hours during the scheduled times via [Zoom](https://itconnect.uw.edu/connect/phones/conferencing/zoom-video-conferencing/log-in/). You will be receiving announcements about homeworks in your email (or can check on the website), and you will be submitting your homeworks online through a tool called [Gradescope](https://www.gradescope.com/). You will be able to use an online platform for running your code, so no need for a power station at home. We will have a discussion forum online where you can ask your questions. Are we forgetting something? Most probably yes, but we can certainly figure it out and adjust pretty soon! Sounds like too many tools to figure out? We are learning too! And learning is better than not learning. 
 
@@ -27,7 +27,7 @@ We will use Python in this course. Although Python knowledge is not a prerequisi
 [Schafer] [Java 2 Python 3](https://github.com/hschafer/java-2-python-3): A guide to learning Python by comparing it to Java - Hunter Schafer
 Note: Only useful if you know Java.
 * [Python for R users](https://learn.datacamp.com/courses/python-for-r-users)
-* [Python for Matlab users]((https://docs.scipy.org/doc/numpy/user/numpy-for-matlab-users.html))
+* [Python for Matlab users](https://docs.scipy.org/doc/numpy/user/numpy-for-matlab-users.html)
 * [Learn Python in Y Minutes](https://learnxinyminutes.com/docs/python/)
 * Very comprehensive [Python cheat sheet](https://courses.cs.washington.edu/courses/cse416/19su/files/python-cheat-sheet.pdf)
 
