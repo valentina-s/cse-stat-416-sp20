@@ -6,7 +6,10 @@ permalink: /logistics/
 
 ### Virtual Learning
 
-Luckily, many components of the course have already been designed so that most of the work can be done remotely. We will meet for lectures, TA sections, and office hours during the scheduled times via [Zoom](https://itconnect.uw.edu/connect/phones/conferencing/zoom-video-conferencing/log-in/). You will be receiving announcements about homeworks in your email (or can check on the website), and you will be submitting your homeworks online through a tool called [Gradescope](https://www.gradescope.com/). You will be able to use an online platform for running your code, so no need for a power station at home. We will have a discussion forum online where you can ask your questions. Are we forgetting something? Most probably yes, but we can certainly figure it out and adjust pretty soon! Sounds like too many tools to figure out? We are learning too! And learning is better than not learning. 
+Luckily, many components of the course have already been designed so that most of the work can be done remotely. We will meet for lectures, TA sections, and office hours during the scheduled times via [Zoom](https://itconnect.uw.edu/connect/phones/conferencing/zoom-video-conferencing/log-in/). You will be receiving announcements about homeworks in your email (or can check on the website), and you will be submitting your homeworks online through a tool called [Gradescope](https://www.gradescope.com/). You will be able to use an online platform for running your code, so no need for a power station at home. We will have a discussion forum online where you can ask your questions. Are we forgetting something? Most probably yes, but we can certainly figure it out and adjust pretty soon! Sounds like too many tools to figure out? We are learning too! And learning is better than not learning.
+
+ 
+#### Zoom
 
 * [Set-up UW Zoom](https://itconnect.uw.edu/connect/phones/conferencing/zoom-video-conferencing/log-in/)
 	* Don't be a stranger: set up your profile with your name and picture
