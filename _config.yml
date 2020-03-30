@@ -55,6 +55,7 @@ header_pages:
  - schedule.md
  - homework.md
  - resources.md
+ - office-hours.md
 
 # Build settings
 theme: minima

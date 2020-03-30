@@ -12,10 +12,12 @@ permalink: /
 	* Office Hours: 11:30am - 1:30pm
 * **Lectures:** Tuesdays & Thursdays, 10:00-11:20am, [Online via Zoom]({{base.url}}logistics) 
 * **Quizz Sections:** Thursdays
-	* AA: 12:30 - 1:20pm
-	* AB: 1:30 - 2:20pm
-	* AC: 2:30 - 3:20pm
-	* AD: 3:30 - 4:20pm
+	* AA: 12:30 - 1:20pm (Anne Wagner/Hongjun Jack Wu)
+	* AB: 1:30 - 2:20pm (Anne Wagner/Hongjun Jack Wu)
+	* AC: 2:30 - 3:20pm (Gang Cheng/Seth Temple)
+	* AD: 3:30 - 4:20pm (Gang Cheng/Seth Temple)
+
+		Check [office-hours]({{base.url}}/office-hours/) for more information.  
 
 ---
 ## Description
