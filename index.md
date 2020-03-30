@@ -27,6 +27,25 @@ Provides practical introduction to machine learning. Modules include regression,
 * CSE 143 or CSE 160 (programming experience); and STAT 311 or STAT 390 (prob & stats experience).
 
 If you are missing some of the prerequisite material, you are responsible to learn it on your own (check out the [resources]({{base.url}}resources/) page). 
+
+---
+## Assessment
+
+Here is how your grade will be calculated:
+
+* Homeworks: 80%
+	* Programming Portion: 60%
+	* Concept Portion: 20%
+* Final Exam: 20%
+
+This maps to the 4.0 grade scale roughly as follows. You will get at least the grade below for the percentages shown:
+
+* 90% at least 3.5
+* 85% at least 3.0
+* 80% at least 2.5
+* 75% at least 2.0
+* 70% at least 1.5
+* 60% at least 0.7
  
 
 
