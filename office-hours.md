@@ -4,25 +4,25 @@ title: Teaching Staff
 permalink: /office-hours/
 ---
 
-* **Instructor:** Valentina Staneva, eScience Institute
+* **Instructor:** [Valentina Staneva](https://www.linkedin.com/in/valentina-staneva-964a133/)
 	* vms16@uw.edu 
 	* Office Hours: 
 		* Tuesdays, 11:30am - 1:30pm
 * **Teaching Assistants:**
 	
-	* Annelise Wagner
+	* [Annelise Wagner]
 		* amwag@uw.edu
 		* Office Hours: TBD
 		
-	* Hongjun Jack Wu
+	* [Hongjun Jack Wu]
 		* hongjun@uw.edu
 		* Office Hours: TBD
 		
-	* Gang Cheng
+	* [Gang Cheng]
 		* gangc@uw.edu
 		* Office Hours:
 		   * Fridays: 12:00pm - 2:00pm PDT  	
-	* Seth Temple
+	* [Seth Temple]
 		* sdtemple@uw.edu
 		* Office Hours: 
 			* Mondays, 4:00pm - 6:00pm	PDT
