@@ -64,17 +64,19 @@ This maps to the 4.0 grade scale roughly as follows. You will get at least the g
 ### Homework
 Most weeks, there will be a homework assignment that is generally divided into two parts. The first is a programming assignment that will involve writing Python code, processing and analyzing data, and answering open ended questions all based on that analysis. The second part focuses on answering conceptual questions at a high level or might involve doing some calculation by hand. Each of these portions contribute to your grade separately as per the section above.
 
-Homework assignments should be completed individually by each student without the use of materials outside the class. Please refer to the [Academic misconduct policy](/#academic-disonesty).
+Unless otherwise stated, homework assignments should be completed individually by each student without the use of materials outside the class. Please refer to the [Academic misconduct policy](/#academic-disonesty).
 
 [Late days](#late-days)
 
-Each student receives 4 "late days" for use on homework assignments. A late day allows you to submit a program up to 24 hours late without penalty. For example, you could use 2 late days and submit a program due Thursday 11:30pm on Saturday by 11:30pm with no penalty. Once a student has used up all the late days, each successive day that an assignment is late will result in a loss of 10% on that assignment. Regardless of how many late days you have, you MAY NOT submit a program more than **TWO** days after it is due. Leftover late days have no impact on your grade.
+Each student receives 2 "late days" for use on homework assignments. A late day allows you to submit a program up to 24 hours late without penalty. For example, you could use 2 late days and submit a program due Thursday 11:30pm on Saturday by 11:30pm with no penalty. Once a student has used up all the late days, each successive day that an assignment is late will result in a loss of 10% on that assignment. Regardless of how many late days you have, you MAY NOT submit a program more than **TWO** days after it is due. Leftover late days have no impact on your grade. 
 
-If unusual circumstances truly beyond your control prevent you from submitting an assignment or attending an exam on time, you should discuss this with the course staff ASAP. If you contact us well in advance of the deadline, we may be able to show more flexibility in some cases.
+Further, one is allowed to drop one homework score: keep this for emergencies.
+
+If unusual circumstances truly beyond your control prevent you from submitting assignments or attending an exam on time, you should discuss this with the course staff ASAP. If you contact us well in advance of the deadline, we may be able to show more flexibility in some cases.
 
 
 ### Exam
- 
+The exam will need to be completed online within a block of time.  
  
 ### [Academic honesty and collaboration](#academic-disonesty)
 
