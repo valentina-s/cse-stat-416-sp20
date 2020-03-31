@@ -33,7 +33,7 @@ Provides practical introduction to machine learning. Modules include regression,
 If you are missing some of the prerequisite material, you are responsible to learn it on your own (check out the [resources]({{base.url}}resources/) page). 
 
 ---
-**## Learning objectives:
+## Learning objectives:
 
 * Convert real world problems to machine learning problems
 * Distinguish between different types of machine learning problems
