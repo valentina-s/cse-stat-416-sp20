@@ -3,10 +3,6 @@ layout: page
 title: Assignments
 permalink: /homework/
 ---
-
-
-Unless otherwise stated, assignments will be due at 11:59pm.
-
 ## Gradescope
 For each homework, there will be three assignments listed on Gradescope.
 
@@ -22,12 +18,13 @@ If you are planning on using Colab, you'll have to save them to your Google Driv
 Once you have completed the assignment, you should download the Jupyter Notebook (File > Download .ipynb) and upload that to Gradescope. Remember, you should use the ipynb option!
 
 ### Option B - Local Development
-If you are planning on using your local computer, make sure you have completed the [Software Setup](). Download the Jupyter Notebook (File > Download .ipynb). Launch the Jupyter Notebook using the Anaconda Navigator and navigate to the directory you downloaded the notebook.
+If you are planning on using your local computer, make sure you have installed Python through Anaconda [Software Setup](https://www.anaconda.com/distribution/). Download the Jupyter Notebook (File > Download .ipynb). Launch the Jupyter Notebook using the Anaconda Navigator and navigate to the directory you downloaded the notebook.
 
 Once you have completed the assignment, you should upload the completed notebooks to Gradescope. Remember, you should use the `.ipynb` files!
 
+---
 
-* **Homework 0 - Review and Course Tools** [0 points] - due **Friday, April 3rd, 11:59pm PDT**.  
+* **Homework 0 - Review and Course Tools** [0 points] - due **Wednesday, April 8th, 11:59pm PDT**.  
  
 	You should submit the following 3 assignments on [Gradescope](https://www.gradescope.com/courses/106508/):
 

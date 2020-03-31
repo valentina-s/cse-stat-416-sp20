@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Teaching Staff
+title: Office Hours
 permalink: /office-hours/
 ---
 
@@ -16,7 +16,8 @@ permalink: /office-hours/
 		
 	* [Hongjun Jack Wu]()
 		* hongjun@uw.edu
-		* Office Hours: TBD
+		* Office Hours:
+			* Fridays: 9:00am - 11:00 am PDT 
 		
 	* [Gang Cheng]()
 		* gangc@uw.edu
