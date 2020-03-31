@@ -3,10 +3,6 @@ layout: page
 title: Assignments
 permalink: /homework/
 ---
-
-
-Unless otherwise stated, assignments will be due at 11:59pm.
-
 ## Gradescope
 For each homework, there will be three assignments listed on Gradescope.
 
@@ -26,8 +22,9 @@ If you are planning on using your local computer, make sure you have completed t
 
 Once you have completed the assignment, you should upload the completed notebooks to Gradescope. Remember, you should use the `.ipynb` files!
 
+---
 
-* **Homework 0 - Review and Course Tools** [0 points] - due **Friday, April 3rd, 11:59pm PDT**.  
+* **Homework 0 - Review and Course Tools** [0 points] - due **Wednesday, April 8th, 11:59pm PDT**.  
  
 	You should submit the following 3 assignments on [Gradescope](https://www.gradescope.com/courses/106508/):
 
