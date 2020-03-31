@@ -21,5 +21,13 @@ Not share their computer audio or video during their Zoom sessions.
 
 	* Check out this [visual guide](https://courses.cs.washington.edu/courses/cse163/test/zoom.html) for more details and tips
 
+#### [Gradescope](https://www.gradescope.com/courses/106508)
 
+#### Colaboratory Notebooks
+* [Getting Started Notebooks](https://colab.research.google.com/notebooks/intro.ipynb#)
+* [Getting Started Video](https://www.youtube.com/watch?v=inN8seMm7UI)
+
+
+#### Virtual Discussions
+   * [Canvas Discussion Forum](https://canvas.uw.edu/courses/1371982/discussion_topics)
 
