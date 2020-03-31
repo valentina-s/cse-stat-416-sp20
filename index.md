@@ -12,7 +12,7 @@ permalink: /
 
 * **Instructor:** Valentina Staneva (vms16@uw.edu) 
 	* Office Hours: 11:30am - 1:30pm
-	*
+	
 * **Lectures:** Tuesdays & Thursdays, 10:00-11:20am, [Online via Zoom]({{base.url}}logistics) 
 
 * **Quizz Sections:** Thursdays
@@ -33,14 +33,14 @@ Provides practical introduction to machine learning. Modules include regression,
 If you are missing some of the prerequisite material, you are responsible to learn it on your own (check out the [resources]({{base.url}}resources/) page). 
 
 ---
-## Learning objectives:
+**## Learning objectives:
 
 * Convert real world problems to machine learning problems
 * Distinguish between different types of machine learning problems
 * Preprocess unstructured datasets for machine learning
 * Know and apply multiple machine learning methods and recognize their assumptions 
 * Employ contemporary machine learning libraries to solve practical problems
-* Evaluate the performance of machine learning algorithms 
+* Evaluate the performance of machine learning algorithms** 
 
 ---
 ## Assessment

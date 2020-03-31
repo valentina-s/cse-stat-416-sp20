@@ -18,7 +18,7 @@ If you are planning on using Colab, you'll have to save them to your Google Driv
 Once you have completed the assignment, you should download the Jupyter Notebook (File > Download .ipynb) and upload that to Gradescope. Remember, you should use the ipynb option!
 
 ### Option B - Local Development
-If you are planning on using your local computer, make sure you have completed the [Software Setup](). Download the Jupyter Notebook (File > Download .ipynb). Launch the Jupyter Notebook using the Anaconda Navigator and navigate to the directory you downloaded the notebook.
+If you are planning on using your local computer, make sure you have installed Python through Anaconda [Software Setup](https://www.anaconda.com/distribution/). Download the Jupyter Notebook (File > Download .ipynb). Launch the Jupyter Notebook using the Anaconda Navigator and navigate to the directory you downloaded the notebook.
 
 Once you have completed the assignment, you should upload the completed notebooks to Gradescope. Remember, you should use the `.ipynb` files!
 

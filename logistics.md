@@ -24,10 +24,18 @@ Not share their computer audio or video during their Zoom sessions.
 #### [Gradescope](https://www.gradescope.com/courses/106508)
 
 #### Colaboratory Notebooks
+You can do your homework in a Colab Notebook Environment and store the notebooks in Google Drive. This does not require you to install Python locally, and you will get some freebies: 12 GB RAM machine with an optional GPU for speedy graphics processing.
+
 * [Getting Started Notebooks](https://colab.research.google.com/notebooks/intro.ipynb#)
 * [Getting Started Video](https://www.youtube.com/watch?v=inN8seMm7UI)
 
 
 #### Virtual Discussions
    * [Canvas Discussion Forum](https://canvas.uw.edu/courses/1371982/discussion_topics)
+   
+   We will use the Canvas forum for Q&A where you may ask questions (both publicly and privately). If you have a question, this should be the first place to check & it's often the case that other students may have had the same question.
+
+	We also strongly recommend you monitor new questions asked semi-regularly: seeing questions other students ask can often be surprisingly enlightening.
+
+	We do not have a course staff email so if you have a question about a particular concept or part of the assignment that you do not want to post publicly, you should post privately so that the instructor or any of the TAs can answer. Students should prefer using the forum instead of emailing individual staff members. Obviously, if your concern is a personal matter that you want to talk to the instructor about, you may email the instructor individually.
 
