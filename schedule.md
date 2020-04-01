@@ -12,7 +12,7 @@ Below are the the topics we aim to cover but time and the order might change.
 
 | Week          | Tuesday       | Thursday   | Thursday Section | References         | Assignment  |
 |:--------------|:--------------------|:-------------------|:-------------------|:-------------|:------------
-|1. Linear Regression |Intro to Machine Learning| Linear Regression, Assessing Performance|  |
+|1. Linear Regression |Intro to Machine Learning<br>[slides](https://canvas.uw.edu/courses/1371982/files/folder/Lectures/lec1?preview=63527606)| Linear Regression, Assessing Performance|  |
 |2. Regularization| Ridge Regression | LASSO| |
 |3. Classification| Overview | Logistic Regression | 
 |4. Ensemble Methods| Decision Trees | Ensemble Methods | 
