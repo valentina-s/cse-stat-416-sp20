@@ -24,7 +24,7 @@ Once you have completed the assignment, you should upload the completed notebook
 
 ---
 
-####[Homework 0](#HW0) - Review and Course Tools** [0 points] - due **Wednesday, April 8th, 11:59pm PDT**.  
+#### [[Homework 0]](#HW0) - **Review and Course Tools** [0 points] - due **Wednesday, April 8th, 11:59pm PDT**.  
 
  
 You should submit the following 3 assignments on [Gradescope](https://www.gradescope.com/courses/106508/)
