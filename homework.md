@@ -24,13 +24,18 @@ Once you have completed the assignment, you should upload the completed notebook
 
 ---
 
-* **Homework 0 - Review and Course Tools** [0 points] - due **Wednesday, April 8th, 11:59pm PDT**.  
+#### [[Homework 0]](#HW0) - **Review and Course Tools** [0 points] - due **Wednesday, April 8th, 11:59pm PDT**.  
 
  
-	You should submit the following 3 assignments on [Gradescope](https://www.gradescope.com/courses/106508/) (note this hw has not been released yet, once it is, you will receive a notification and see it on Gradescope):
+You should submit the following 3 assignments on [Gradescope](https://www.gradescope.com/courses/106508/)
 
-	* `[A0: Upload] Course Tools` - upload your finished notebooks `Getting Started with Jupyter Notebooks.ipynb`, `Getting Started with Python.ipynb`, and `Getting Started with Pandas.ipynb` which you will find [here](https://canvas.uw.edu/courses/1371982/pages/assignment-0-links)
-	* `[A0: Programming] Course Tools`
-	* `[A0: Concept] Review of Foundations` 
+* `[A0: Upload] Course Tools` - complete and upload the three notebooks linked [here](https://canvas.uw.edu/courses/1371982/pages/assignment-0-links):
+	* 	`Getting_Started_with_iPython_Notebooks.ipynb`
+	*   `Getting_Started_with_Python.ipynb` 
+	*   `Getting_Started_with_Pandas.ipynb` 
+
+* `[A0: Programming] Course Tools`
+
+* `[A0: Concept] Review of Foundations` 
 
 
