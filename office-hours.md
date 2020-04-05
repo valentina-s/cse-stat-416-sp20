@@ -13,7 +13,7 @@ permalink: /office-hours/
 	* [Annelise Wagner]()
 		* amwag@uw.edu
 		* Office Hours:
-      * Mondays, 12:00pm - 2:00pm PDT
+       * Mondays, 12:00pm - 2:00pm PDT
 		
 	* [Hongjun Jack Wu]()
 		* hongjun@uw.edu
