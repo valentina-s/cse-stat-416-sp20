@@ -38,5 +38,5 @@ Machine Learning Texts:
 
 ### Data Science:
 
-* [VanderPlas] [Python for Data Science](https://jakevdp.github.io/PythonDataScienceHandbook/) - Jake VanderPlas
+* [PyDS] [Python for Data Science](https://jakevdp.github.io/PythonDataScienceHandbook/) - Jake VanderPlas
 * [Berkeley Principles and Techniques of Data Science](https://www.textbook.ds100.org/intro.html) - UC Berkeley Data 100 Course
