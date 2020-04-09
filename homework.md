@@ -39,7 +39,7 @@ You should submit the following 3 assignments on [Gradescope](https://www.grades
 
 * `[A0: Concept] Review of Foundations` 
 
-#### <a name="HW1">[Homework 1]</a> **** [25 points] - due **Wednesday, April 15th, 11:59pm PDT**.
+#### <a name="HW1">[Homework 1]</a> **House Prices** [25 points] - due **Wednesday, April 15th, 11:59pm PDT**.
 
  
 You should submit the following 3 assignments on [Gradescope](https://www.gradescope.com/courses/106508/)
