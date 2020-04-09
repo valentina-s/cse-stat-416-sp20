@@ -39,4 +39,16 @@ You should submit the following 3 assignments on [Gradescope](https://www.grades
 
 * `[A0: Concept] Review of Foundations` 
 
+#### <a name="HW1">[Homework 1]</a> **** [25 points] - due **Wednesday, April 15th, 11:59pm PDT**.
+
+ 
+You should submit the following 3 assignments on [Gradescope](https://www.gradescope.com/courses/106508/)
+
+* `[A1: Programming] House Prices`- complete the steps in the following notebook [A1-House-Prices.ipynb](https://canvas.uw.edu/courses/1371982/pages/assignment-1-link) and answer the questions
+
+* `[A1: Upload] House Prices` - upload your notebook
+
+
+* `[A1: Concept] Regression and Assessing Performance` 
+
 
