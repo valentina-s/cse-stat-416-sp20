@@ -52,4 +52,17 @@ You should submit the following 3 assignments on [Gradescope](https://www.grades
 
 * `[A1: Concept] Regression and Assessing Performance` 
 
+---
+#### <a name="HW2">[Homework 2]</a> **Ridge and Lasso Regression** [25 points] - due **Wednesday, April 22th, 11:59pm PDT**.
+
+ 
+You should submit the following 3 assignments on [Gradescope](https://www.gradescope.com/courses/106508/)
+
+* `[A1: Programming] Ridge and LASSO`- complete the steps in the following notebook [A2\_Ridge\_and\_Lasso.ipynb](https://canvas.uw.edu/courses/1371982/pages/assignment-2-link) and answer the questions (use your UW NetID Google Account to access the files)
+
+* `[A1: Upload] Ridge and LASSO` - upload your notebook
+
+
+* `[A1: Concept] Regularized Regression` 
+
 
