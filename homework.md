@@ -65,4 +65,20 @@ You should submit the following 3 assignments on [Gradescope](https://www.grades
 
 * `[A2: Concept] Regularized Regression` 
 
+---
+#### <a name="HW3">[Homework 3]</a> **Sentiment** [25 points] - due **Wednesday, April 29th, 11:59pm PDT**.
+
+ 
+You should submit the following 3 assignments on [Gradescope](https://www.gradescope.com/courses/106508/)
+
+* `[A3: Programming] Sentiment Analysis`- complete the steps in the following notebook [A3\_Sentiment\_Analysis\_Logistic\_Regression.ipynb](https://canvas.uw.edu/courses/1371982/pages/assignment-3-link) and answer the questions (use your UW NetID Google Account to access the files)
+
+* `[A3: Upload]  Sentiment Analysis` - upload your notebook
+
+
+* `[A3: Concept] Classification and Logistic Regression` 
+
+
+
+
 
