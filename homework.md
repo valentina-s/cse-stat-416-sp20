@@ -66,7 +66,7 @@ You should submit the following 3 assignments on [Gradescope](https://www.grades
 * `[A2: Concept] Regularized Regression` 
 
 ---
-#### <a name="HW3">[Homework 3]</a> **Sentiment** [25 points] - due **Wednesday, April 29th, 11:59pm PDT**.
+#### <a name="HW3">[Homework 3]</a> **Sentiment Analysis** [25 points] - due **Wednesday, April 29th, 11:59pm PDT**.
 
  
 You should submit the following 3 assignments on [Gradescope](https://www.gradescope.com/courses/106508/)
