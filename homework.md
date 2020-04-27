@@ -73,7 +73,7 @@ You should submit the following 3 assignments on [Gradescope](https://www.grades
 
 * `[A3: Programming] Sentiment Analysis`- complete the steps in the following notebook [A3\_Sentiment\_Analysis\_Logistic\_Regression.ipynb](https://canvas.uw.edu/courses/1371982/pages/assignment-3-link) and answer the questions (use your UW NetID Google Account to access the files)
 
-(If you are using Windows and are running the notebooks locally, the line with `wget` may not work: skip it and instead download the file directly from the link and store it in your notebook working directory)
+  (If you are using Windows and are running the notebooks locally, the line with `wget` may not work: skip it and instead download the file directly from the link and store it in your notebook working directory)
 
 * `[A3: Upload]  Sentiment Analysis` - upload your notebook
 
