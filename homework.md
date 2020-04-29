@@ -52,6 +52,8 @@ You should submit the following 3 assignments on [Gradescope](https://www.grades
 
 * `[A1: Concept] Regression and Assessing Performance` 
 
+[Solution Notebook](https://canvas.uw.edu/courses/1371982/pages/assignment-1-link)
+
 ---
 #### <a name="HW2">[Homework 2]</a> **Ridge and Lasso Regression** [25 points] - due **Wednesday, April 22th, 11:59pm PDT**.
 
@@ -64,6 +66,8 @@ You should submit the following 3 assignments on [Gradescope](https://www.grades
 
 
 * `[A2: Concept] Regularized Regression` 
+
+[Solution Notebook](https://canvas.uw.edu/courses/1371982/pages/assignment-2-link)
 
 ---
 #### <a name="HW3">[Homework 3]</a> **Sentiment Analysis** [25 points] - due **Wednesday, April 29th, 11:59pm PDT**.
