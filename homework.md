@@ -70,7 +70,7 @@ You should submit the following 3 assignments on [Gradescope](https://www.grades
 [Solution Notebook](https://canvas.uw.edu/courses/1371982/pages/assignment-2-link)
 
 ---
-#### <a name="HW3">[Homework 3]</a> **Sentiment Analysis** [25 points] - due **Wednesday, April 29th, 11:59pm PDT**.
+#### <a name="HW3">[Homework 3]</a> **Sentiment Analysis** [25 points] - due **Wednesday, April 30th, 11:59pm PDT**.
 
  
 You should submit the following 3 assignments on [Gradescope](https://www.gradescope.com/courses/106508/)
