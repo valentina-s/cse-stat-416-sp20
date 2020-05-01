@@ -84,7 +84,20 @@ You should submit the following 3 assignments on [Gradescope](https://www.grades
 
 * `[A3: Concept] Classification and Logistic Regression` 
 
+---
+#### <a name="HW4">[Homework 4]</a> **Loan Safety** [25 points] - due **Wednesday, May 6th, 11:59pm PDT**.
 
+ 
+You should submit the following 3 assignments on [Gradescope](https://www.gradescope.com/courses/106508/)
+
+* `[A4: Programming] Loan Safety with Decision Trees`- complete the steps in the following notebook [A4\_Loan\_Safety\_with\_Decision\_Trees.ipynb](https://canvas.uw.edu/courses/1371982/pages/assignment-4-link) and answer the questions (use your UW NetID Google Account to access the files)
+
+  (If you are using Windows and are running the notebooks locally, the line with `wget` may not work: skip it and instead download the file directly from the link and store it in your notebook working directory)
+
+* `[A4: Upload] Loan Safety with Decision Trees` - upload your notebook
+
+
+* `[A4: Concept] Tree Models` 
 
 
 
