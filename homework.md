@@ -99,5 +99,23 @@ You should submit the following 3 assignments on [Gradescope](https://www.grades
 
 * `[A4: Concept] Tree Models` 
 
+---
+#### <a name="HW5">[Homework 5]</a> **Rain or Not?** [45 points] - due **Thursday, May 14th, 11:59pm PDT**.
+
+Homework 5 is slightly different than the previous homeworks. You still need to submit a Concept Quiz as usual, but instead of the typical notebook assignment you will participate in a Kaggle Challenge. Please follow the link for all the details how to participate. After that you still need to submit the Kaggle Challenge Answers and upload your work.
+
+This is the public link:
+https://www.kaggle.com/c/sp20-csestat-416-hw-5/
+
+To actually participate you have to use the link in the canvas announcement.
+
+ 
+You should submit the following 3 assignments on [Gradescope](https://www.gradescope.com/courses/106508/)
+
+* `[A5: Programming] Kaggle Challenge Answers`- complete the questions related to the Kaggle Challenge
+
+* `[A5: Upload] Kaggle Challenge Answers` - upload your notebooks and submission.csv file.
+
+* `[A4: Concept] K Nearest Neighbors and Kernel Methods` 
 
 
