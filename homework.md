@@ -105,7 +105,7 @@ You should submit the following 3 assignments on [Gradescope](https://www.grades
 Homework 5 is slightly different than the previous homeworks. You still need to submit a Concept Quiz as usual, but instead of the typical notebook assignment you will participate in a Kaggle Challenge. Please follow the link for all the details how to participate. After that you still need to submit the Kaggle Challenge Answers and upload your work.
 
 This is the public link:
-https://www.kaggle.com/c/sp20-csestat-416-hw-5/
+[https://www.kaggle.com/c/sp20-csestat-416-hw-5/](https://www.kaggle.com/c/sp20-csestat-416-hw-5/)
 
 To actually participate you have to use the link in the canvas announcement.
 
