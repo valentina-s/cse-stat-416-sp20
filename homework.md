@@ -84,6 +84,8 @@ You should submit the following 3 assignments on [Gradescope](https://www.grades
 
 * `[A3: Concept] Classification and Logistic Regression` 
 
+[Solution Notebook](https://canvas.uw.edu/courses/1371982/pages/assignment-3-link)
+
 ---
 #### <a name="HW4">[Homework 4]</a> **Loan Safety** [25 points] - due **Thursday, May 7th, 11:59pm PDT**.
 
