@@ -120,4 +120,14 @@ You should submit the following 3 assignments on [Gradescope](https://www.grades
 
 * `[A4: Concept] K Nearest Neighbors and Kernel Methods` 
 
+---
+#### <a name="HW6">[Homework 6]</a> ** Deep Learning with Keras ** [30 points] - due **Thursday, May 21st, 11:59pm PDT**.
+
+You should submit the following 3 assignments on [Gradescope](https://www.gradescope.com/courses/106508/)
+
+* `[A6: Programming] Deep Learning with Keras`](https://canvas.uw.edu/courses/1371982/pages/assignment-6-link)
+
+* `[A6: Upload] Deep Learning with Keras` - upload your notebook.
+
+* `[A6: Concept] Deep Learning` 
 
