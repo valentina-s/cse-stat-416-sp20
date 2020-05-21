@@ -121,7 +121,7 @@ You should submit the following 3 assignments on [Gradescope](https://www.grades
 * `[A4: Concept] K Nearest Neighbors and Kernel Methods` 
 
 ---
-#### <a name="HW6">[Homework 6]</a> **Deep Learning with Keras** [30 points] - due **Thursday, May 21st, 11:59pm PDT**.
+#### <a name="HW6">[Homework 6]</a> **Deep Learning** [30 points] - due **Thursday, May 21st, 11:59pm PDT**.
 
 You should submit the following 3 assignments on [Gradescope](https://www.gradescope.com/courses/106508/)
 
@@ -131,3 +131,14 @@ You should submit the following 3 assignments on [Gradescope](https://www.grades
 
 * `[A6: Concept] Deep Learning` 
 
+
+---
+#### <a name="HW7">[Homework 7]</a> **Clustering** [25 points] - due **Thursday, May 28st, 11:59pm PDT**.
+
+You should submit the following 3 assignments on [Gradescope](https://www.gradescope.com/courses/106508/)
+
+* [`[A7: Programming] k-means with text data`](https://canvas.uw.edu/courses/1371982/pages/assignment-7-link)
+
+* `[A7: Upload] k-means with text data` - upload your notebook.
+
+* `[A7: Concept] Clustering` 
