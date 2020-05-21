@@ -139,6 +139,6 @@ You should submit the following 3 assignments on [Gradescope](https://www.grades
 
 * [`[A7: Programming] k-means with Text Data`](https://canvas.uw.edu/courses/1371982/pages/assignment-7-link)
 
-* `[A7: Upload] k-means with text data` - upload your notebook.
+* `[A7: Upload] k-means with Text Data` - upload your notebook.
 
 * `[A7: Concept] Clustering` 
