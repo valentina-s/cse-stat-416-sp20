@@ -133,7 +133,7 @@ You should submit the following 3 assignments on [Gradescope](https://www.grades
 
 
 ---
-#### <a name="HW7">[Homework 7]</a> **Clustering** [25 points] - due **Thursday, May 28st, 11:59pm PDT**.
+#### <a name="HW7">[Homework 7]</a> **Clustering** [25 points] - due **Thursday, May 28th, 11:59pm PDT**.
 
 You should submit the following 3 assignments on [Gradescope](https://www.gradescope.com/courses/106508/)
 
@@ -142,3 +142,14 @@ You should submit the following 3 assignments on [Gradescope](https://www.grades
 * `[A7: Upload] k-means with Text Data` - upload your notebook.
 
 * `[A7: Concept] Clustering` 
+
+---
+#### <a name="HW8">[Homework 8]</a> **Clustering** [17 points] - due **Thursday, June 4th, 11:59pm PDT**.
+
+You should submit the following 3 assignments on [Gradescope](https://www.gradescope.com/courses/106508/)
+
+* [`[A8: Programming] Twitter Topic Modeling`](https://canvas.uw.edu/courses/1371982/pages/assignment-8-link)
+
+* `[A8: Upload] Twitter Topic Modeling` - upload your notebook.
+
+* `[A8: Concept] Dimensionality Reduction` 
