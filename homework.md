@@ -144,7 +144,7 @@ You should submit the following 3 assignments on [Gradescope](https://www.grades
 * `[A7: Concept] Clustering` 
 
 ---
-#### <a name="HW8">[Homework 8]</a> **Clustering** [17 points] - due **Thursday, June 4th, 11:59pm PDT**.
+#### <a name="HW8">[Homework 8]</a> **Dimensionality Reduction** [17 points] - due **Thursday, June 4th, 11:59pm PDT**.
 
 You should submit the following 3 assignments on [Gradescope](https://www.gradescope.com/courses/106508/)
 
