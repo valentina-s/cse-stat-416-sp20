@@ -76,7 +76,7 @@ If unusual circumstances truly beyond your control prevent you from submitting a
 
 
 ### Exam
-The exam will be available on Gradescope from **10:30am PDT** to **10:30pm PDT** and you will have **3 hours** to complete the exam once you open it. This time should be enough if you are familiar with the material and can allow for some small unexpected interruptions. If you have extra time left: double check your answers. Here is the practice exam from last year [practice exam](https://courses.cs.washington.edu/courses/cse416/19su/files/exams/practice_exam.pdf) and the [solutions](https://courses.cs.washington.edu/courses/cse416/19su/files/exams/practice_exam_solution.pdf). Here is also a checklist of topics that can help you review [topics checklist](https://docs.google.com/document/d/1gR7IFaE2DSeyNkZKgO0GbgEbZ6sLziffVpBGKBrqtl4/edit?usp=sharing). 
+The exam will be available on Gradescope from **10:30am PDT** to **10:30pm PDT** and you will have **3 hours** to complete the exam once you open it. This time should be enough if you are familiar with the material and can allow for some small unexpected interruptions. If you have extra time left: double check your answers. Here is the practice exam from last year [practice exam](https://courses.cs.washington.edu/courses/cse416/19su/files/exams/practice_exam.pdf) and the [solutions](https://courses.cs.washington.edu/courses/cse416/19su/files/exams/practice_exam_solution.pdf). Here is also a checklist of topics that can help you [review topics checklist](https://docs.google.com/document/d/1gR7IFaE2DSeyNkZKgO0GbgEbZ6sLziffVpBGKBrqtl4/edit?usp=sharing). 
  
 ### [Academic honesty and collaboration](#academic-disonesty)
 
