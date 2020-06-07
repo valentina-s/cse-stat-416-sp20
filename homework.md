@@ -160,4 +160,5 @@ You should submit the following 3 assignments on [Gradescope](https://www.grades
 * `[A8: Upload] Twitter Topic Modeling` - upload your notebook.
 
 * `[A8: Concept] Dimensionality Reduction` 
+
 [Solution Notebook](https://canvas.uw.edu/courses/1371982/pages/assignment-8-link)
