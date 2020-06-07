@@ -101,6 +101,8 @@ You should submit the following 3 assignments on [Gradescope](https://www.grades
 
 * `[A4: Concept] Tree Models` 
 
+[Solution Notebook](https://canvas.uw.edu/courses/1371982/pages/assignment-4-link)
+
 ---
 #### <a name="HW5">[Homework 5]</a> **Rain or Not?** [45 points] - due **Thursday, May 14th, 11:59pm PDT**.
 
@@ -118,7 +120,9 @@ You should submit the following 3 assignments on [Gradescope](https://www.grades
 
 * `[A5: Upload] Kaggle Challenge Answers` - upload your notebooks and submission.csv file.
 
-* `[A4: Concept] K Nearest Neighbors and Kernel Methods` 
+* `[A5: Concept] K Nearest Neighbors and Kernel Methods` 
+
+[Solution Notebook](https://canvas.uw.edu/courses/1371982/pages/assignment-5-link)
 
 ---
 #### <a name="HW6">[Homework 6]</a> **Deep Learning** [30 points] - due **Thursday, May 21st, 11:59pm PDT**.
@@ -131,6 +135,7 @@ You should submit the following 3 assignments on [Gradescope](https://www.grades
 
 * `[A6: Concept] Deep Learning` 
 
+[Solution Notebook](https://canvas.uw.edu/courses/1371982/pages/assignment-6-link)
 
 ---
 #### <a name="HW7">[Homework 7]</a> **Clustering** [25 points] - due **Thursday, May 28th, 11:59pm PDT**.
@@ -142,6 +147,8 @@ You should submit the following 3 assignments on [Gradescope](https://www.grades
 * `[A7: Upload] k-means with Text Data` - upload your notebook.
 
 * `[A7: Concept] Clustering` 
+
+[Solution Notebook](https://canvas.uw.edu/courses/1371982/pages/assignment-7-link)
 
 ---
 #### <a name="HW8">[Homework 8]</a> **Dimensionality Reduction** [17 points] - due **Thursday, June 4th, 11:59pm PDT**.
