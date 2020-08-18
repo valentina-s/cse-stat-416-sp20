@@ -15,7 +15,7 @@ permalink: /office-hours/
 		* Office Hours: 
 			* Mondays, 12:00pm - 2:00pm	PDT
 		
-	* [Hongjun Jack Wu]()
+	* [Hongjun Jack Wu](https://hongjunwu.com/uw/)
 		* hongjun@uw.edu
 		* Office Hours:
 			* Fridays: 9:00am - 11:00 am PDT 
